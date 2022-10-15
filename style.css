@@ -1,0 +1,303 @@
+.box{
+    width: 100%;
+    background-color: #3865f2;
+    color: #eee;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.room1{
+    text-align: center;
+    background-color: rgb(248, 245, 245);
+}
+.imag1 img {
+    width: 100%;
+}
+.imag2 img{
+    width: 100%;
+}
+.imag3 img{
+    width: 100%;
+}
+.list{
+    list-style: none;
+    padding-left: 0px;
+}
+.picc{
+    border: 1px solid #eee;
+    border-radius: 5px;
+    overflow: hidden;
+}
+.text2{
+    width: 70%;
+    float: left;
+}
+.font{
+    width: 30%;
+    float: left;
+    text-align: right;
+}
+.box9{
+    text-align: center;
+    background-color: blue;
+}
+.blog button{
+    background-color: #fff;
+    border-radius: 6px;
+    padding: 14px 30px;
+    
+    
+    font-weight: bold;
+   
+   
+    color: #3865f2;
+
+}
+.intro svg {
+    color: white;
+}
+.box1{
+    padding-top: 60px;
+    background-color: rgb(248, 245, 245);
+}
+.part1{
+    font-size: 17px;
+    color: #3865f2;
+    font-weight: bold;
+
+}
+.part2{
+    font-size: 30px;
+    font-weight: bold;
+
+}
+.blog h1{
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+.blog p{
+    padding-top: 15px;
+    font-size: 17px;
+    padding-bottom: 30px;
+}
+.room2{
+    border: 1px solid #eee;
+    margin: 10px;
+    padding-left: 20px;
+    background-color: #fff;
+}
+.icon{
+    background-color: #3865f2;
+    width: 60px;
+    text-align: center;
+    font-size: 20px;
+    height: 60px;
+    padding-top: 15px;
+    border-radius: 5px;
+    color: white;
+    margin-top: 30px;
+    margin-left: 10px;
+
+}
+.room2:hover{
+    margin-top: -5px;
+    transition: .4s;
+}
+.part3{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.box2{
+  background-color: rgb(248, 245, 245); 
+  overflow: hidden;
+  padding-bottom: 60px;
+
+}
+.popo{
+    color: black;
+    font-size: 19px;
+    padding-top: 16px;
+    
+}
+.para1{
+    color: rgb(160, 150, 150);
+    padding-right: 40px;
+    padding-bottom: 20px;
+}
+.application{
+    font-size: 30px;
+    
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #081828;
+}
+.bigpera{
+    color: rgb(126, 122, 122);
+
+    
+}
+.button{
+    color: #eee;
+    border-radius: 6px;
+    padding: 14px 30px;
+    background-color: #3865f2;
+    border: none;
+    font-weight: bold;
+   
+}
+img.pic12 {
+    width: 8%;
+    float: left;
+    border-radius: 50px;
+    margin-top: 30px;
+}
+.bigpera{
+    padding-left: 10px;
+    float: left;
+    width: 92%;
+    margin-top: 30px;
+}
+.box3{
+    
+    padding-top: 30px;
+    padding-bottom: 50px;
+
+}
+.box9{
+    color: #eee;
+    
+}
+.one{
+    font-size: 40px;
+    padding-top: 70px;
+}
+.tt{
+    font-size: 40px;
+    padding-top: 30px;
+}
+.pp{
+    font-size: 15px;
+    padding-bottom: 40px;
+    
+}
+.box5{
+    padding-top: 40px;
+}
+.room6{
+    text-align: center;
+}
+.head1{
+    color: #3865f2;
+    font-weight: bold;
+    padding-top: 50px;
+}
+.head2{
+    font-size: 38px;
+    font-weight: bold;
+}
+.head3{
+    color: rgb(170, 162, 162);
+    padding-bottom: 60px;
+}
+.top{
+    border: 1px solid #Eee;
+    background-color: #fff;
+   
+   
+   
+}
+.box6{
+    padding-bottom: 30px;
+    background-color: #f9f9f9;
+
+}
+.hobby{
+    padding-top: 30px;
+    font-size: 17px;
+    font-weight: bold;
+    margin-left: 20px;
+}
+.top h2{
+    margin-left: 20px;
+}
+.basic{
+    color: rgb(153, 144, 144);
+    margin-left: 20px;
+}
+button.hobbi {
+    width: 100%;
+    padding: 10px 30px;
+    font-size: 17px;
+    background-color: #081828;
+    color: white;
+    border-radius: 6px;
+    border-bottom: 1px solid rgb(61, 17, 17);
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 85%;
+}
+.what{
+    color: grey;
+    margin-top: 20px;
+    
+    margin-left: 20px;
+    
+}
+svg.svg-inline--fa.fa-check-circle.fa-w-16 {
+    color: #3865f2;
+}
+li {
+    color: gray;
+    margin-left: 20px;
+   
+}
+.section-title {
+    text-align: center;
+    padding-top: 120px;
+}
+h5.wow-zoomIn{
+    color: #3865f2;
+}
+h2.metour {
+    font-weight: bold;
+    padding-bottom: 20px;
+}
+p.wow.fadeInUp {
+    color: gray;
+    padding-bottom: 70px;
+}
+.box6{
+    background-color: #f9f9f9;
+    padding-bottom: 70px;
+}
+.room6{
+    background-color: #f9f9f9;
+}
+.pp{
+    padding-bottom: 70px;
+    font-weight: bold;
+}
+.tt{
+    font-weight: bold;
+}
+.box9{
+    background-color: #3865f2;
+    margin-top: 60px;
+
+}
+section.box4 {
+    margin-bottom: 80px;
+}
+button.hobbi:hover {
+    background-color: #007bff;
+}
+.hr{
+    border-top: 1px solid rgb(61, 17, 17);
+
+}
+.swiper-wrapper{
+    text-align: center;
+}
+.graygrids{
+    padding-top: 30px;
+}
